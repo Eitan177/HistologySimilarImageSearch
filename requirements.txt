@@ -48,7 +48,7 @@ cvxpy==1.0.31
 cycler==0.10.0
 cymem==2.0.3
 Cython==0.29.21
-daft==0.0.4
+
 
 dataclasses==0.7
 datascience==0.10.6
