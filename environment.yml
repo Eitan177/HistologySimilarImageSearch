@@ -1,3 +1,13 @@
 dependencies:
   - ipyvolume
   - appmode
+  - ipywidgets
+  - Pillow
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - seaborn
+  - selenium
+  - sklearn
+  - tensorflow
+  - voila
