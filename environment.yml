@@ -8,6 +8,5 @@ dependencies:
   - scipy
   - seaborn
   - selenium
-  - sklearn
   - tensorflow
   - voila
